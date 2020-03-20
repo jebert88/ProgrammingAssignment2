@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ### Introduction
 
 This second programming assignment will require you to write an R
